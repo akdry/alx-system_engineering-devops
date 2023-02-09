@@ -1,2 +1,2 @@
 #!/bin/bash
-file -m /path/to/school.mgc file.ext
+0       string  SCHOOL   School data
